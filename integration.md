@@ -4,11 +4,11 @@ description: Start working with DashboardKit with minimum setup by creating new 
 
 # Integration
 
-With the years of experience and after crafting many templates, we come to know that, users are often confused with how to use all those components with most of the admin templates which they downloaded/purchased from the internet. If you ever downloaded admin themes, you might come across questions like,&#x20;
+With the years of experience and after crafting many templates, we come to know that, users are often confused with how to use all those components with most of the admin templates which they downloaded/purchased from the internet. If you ever downloaded admin themes, you might come across questions like,
 
 * **How can I use this component in the project?**
 * **How can I create a new project and set up a theme/components?**
-* **Can I have a minimal code-base to start?** etc.&#x20;
+* **Can I have a minimal code-base to start?** etc.
 
 If you ever found yourself in such a situation, we came here to the rescue.
 
@@ -24,7 +24,7 @@ The Skeleton version is only available in the purchased package.
 
 So when you run the project using yarn/npm, you will see a minimal site like below:
 
-![](<.gitbook/assets/Screenshot 2021-10-30 120354 (1).png>)
+![](<.gitbook/assets/Screenshot (19) (1).png>)
 
 It provides you with a very simple and intuitive structure to get started with a new project. You can add new components from the full version. Now let's see how can we do that.
 
@@ -69,7 +69,7 @@ export default function Sample(): React.ReactElement {
 
 The output of this will be the following:
 
-![](<.gitbook/assets/Screenshot 2021-10-30 121700.png>)
+![](<.gitbook/assets/Screenshot (22).png>)
 
 You can set styling as per your need after that.
 

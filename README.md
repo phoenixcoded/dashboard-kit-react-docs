@@ -6,9 +6,9 @@ description: A helper guide of DashboardKit - React Bootstrap Admin Dashboard Te
 
 ## About DashboardKit
 
-![Check live preview at - https://dashboardkit.io/react/](.gitbook/assets/dashkit-react-documentation.jpg)
+![Check live preview at - https://dashboardkit.cc/react/default/](<.gitbook/assets/dashkit-react-documentation (1) (1).png>)
 
-[DashboardKit](https://dashboardkit.io) is the most `developer-friendly` & highly customizable React Admin Template based on React. It has everything you need for your backend projects.
+[DashboardKit](https://dashboardkit.cc/) is the most `developer-friendly` & highly customizable React Admin Template based on React. It has everything you need for your backend projects.
 
 DashboardKit has plenty of ready-to-use React Bootstrap components that will help you build your site faster and save your development time.
 
